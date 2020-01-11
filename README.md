@@ -1,5 +1,5 @@
 # Osbot-Power-Fisher
-I am in the proccess of making a progressive F2P powerfisher that is able to fish and shift drop all fish once it has a full inventory.
+OSBot is an automation software for a MMORPG game called Runescape
 
 Requirements:
 Fishing net for level 1
